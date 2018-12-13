@@ -1,4 +1,4 @@
 #!/bin/bash
 foo() {
-  echo foobar
+  echo baz
 }
